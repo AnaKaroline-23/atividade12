@@ -5,3 +5,4 @@ if nota >=7:
 
 elif nota <7:
     print(f"Reprovado")
+    
